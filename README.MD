@@ -1,1 +1,1 @@
-npm install -s mogoose express nodemon ejs express-fileupload axios bcrypt
+npm install -s mogoose express nodemon ejs express-fileupload axios bcryptjs
